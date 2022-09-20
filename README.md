@@ -1,8 +1,12 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=usdogu&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=usdogu&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=usdogu&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usdogu&langs_count=9&hide=html,css,c&layout=compact&theme=dark)
 
-![](https://ripgvc.herokuapp.com/?username=usdogu)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usdogu&layout=compact&theme=merko">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hds44refljvemmswc35hr5px6i&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31hds44refljvemmswc35hr5px6i&redirect=true)
-
+<p align="center">
+<a
+href="https://spotify-github-profile.vercel.app/api/view?uid=31hds44refljvemmswc35hr5px6i&amp;redirect=true"><img
+src="https://spotify-github-profile.vercel.app/api/view?uid=31hds44refljvemmswc35hr5px6i&amp;cover_image=true&amp;theme=default&amp;bar_color=53b14f&amp;bar_color_cover=true"
+alt="spotify-github-profile"><br/>
