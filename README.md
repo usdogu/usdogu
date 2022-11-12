@@ -5,7 +5,7 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usdogu&layout=compact&theme=merko"></img>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usdogu&layout=compact&theme=merko&hide=c,html,emacs%20lisp,nix"></img>
 </p>
 
 <p align="center">
