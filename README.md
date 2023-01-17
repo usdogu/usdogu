@@ -1,11 +1,11 @@
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=usdogu&show_icons=true&theme=merko"></img>><img
+    <img src="https://readme-stats.clckblog.space/api?username=usdogu&show_icons=true&theme=merko"></img>><img
         src="https://github-readme-streak-stats.herokuapp.com?user=usdogu&theme=merko&date_format=M%20j%5B%2C%20Y%5D"></img>
 </p>
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usdogu&layout=compact&theme=merko&hide=c,html,emacs%20lisp,nix"></img>
+    <img src="https://readme-stats.clckblog.space/api/top-langs/?username=usdogu&layout=compact&theme=merko&hide=c,html,emacs%20lisp,nix"></img>
 </p>
 
 <p align="center">
