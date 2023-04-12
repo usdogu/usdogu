@@ -5,7 +5,7 @@
 
 
 <p align="center">
-    <img src="https://readme-stats.clckblog.space/api/top-langs/?username=usdogu&layout=compact&theme=merko&hide=c,html,emacs%20lisp,nix"></img>
+    <img src="https://readme-stats.clckblog.space/api/top-langs/?username=usdogu&layout=compact&theme=merko&hide=c,html,emacs%20lisp,nix,roff"></img>
 </p>
 
 
