@@ -1,11 +1,12 @@
 <p align="center">
-    <img src="https://readme-stats.clckblog.space/api/top-langs/?username=usdogu&layout=compact&theme=merko&hide=c,html,emacs%20lisp,nix,roff"></img>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=usdogu&theme=merko&date_format=M%20j%5B%2C%20Y%5D"></img>
+    <img src="https://readme-stats.clckblog.space/api?username=usdogu&show_icons=true&theme=merko"></img>
 </p>
 
 <p align="center">
-    <img src="https://readme-stats.clckblog.space/api?username=usdogu&show_icons=true&theme=merko"></img>><img
-        src="https://github-readme-streak-stats.herokuapp.com?user=usdogu&theme=merko&date_format=M%20j%5B%2C%20Y%5D"></img>
+    <img src="https://readme-stats.clckblog.space/api/top-langs/?username=usdogu&layout=compact&theme=merko&hide=c,html,emacs%20lisp,nix,roff"></img>
 </p>
+
 
 <p align="center">
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=31hds44refljvemmswc35hr5px6i&amp;redirect=true"><img
@@ -15,7 +16,7 @@
 
 
 <p>
-<h3 align="center">Contact with me: </h3>
+<h3 align="center">Contact me: </h3>
 <p align="center">
     <a href="https://t.me/c25dbb82028af8907c3a402fa0c2780d" target="blank"><img align="center" style="color: white;"
             src="telegram-app.svg" alt="usdogu" height="30" width="40" /></a>
