@@ -29,3 +29,5 @@ jobs:
           repositories_affiliations: owner,contributor
           plugin_calendar: yes
           plugin_calendar_limit: 3
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
