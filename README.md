@@ -1,19 +1,8 @@
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=usdogu&theme=merko&date_format=M%20j%5B%2C%20Y%5D"></img>
-    <img src="https://readme-stats.clckblog.space/api?username=usdogu&show_icons=true&theme=merko"></img>
-</p>
+<h1 align="center">#Stats 📈</h1>       
 
 <p align="center">
-    <img src="https://readme-stats.clckblog.space/api/top-langs/?username=usdogu&layout=compact&theme=merko&hide=c,html,emacs%20lisp,nix,roff"></img>
+  <img src="/github-metrics.svg" />
 </p>
-
-
-<p align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=31hds44refljvemmswc35hr5px6i&amp;redirect=true"><img
-            src="https://spotify-github-profile.vercel.app/api/view?uid=31hds44refljvemmswc35hr5px6i&amp;cover_image=true&amp;theme=default&amp;bar_color=53b14f&amp;bar_color_cover=true"
-            alt="spotify-github-profile" /><br />
-</p>
-
 
 <p>
 <h3 align="center">Contact me: </h3>
